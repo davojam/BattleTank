@@ -1,2 +1,7 @@
 # BattleTank
-Open-world head-to-head tank fight with simple AI, terrain and advanced control system in Unreal 4.
+Open-world head-to-head tank fight built in Unreal 4. 
+
+## Includes:
+* Simple AI
+* Terrain
+* Advanced Control System
